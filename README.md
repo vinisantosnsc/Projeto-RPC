@@ -31,7 +31,7 @@ Abaixo segue o relato de como foi feito os testes pelo autor
 
 Vejamos:
 
-![alt text](imagens/teste-rpc)
+![alt text](https://github.com/vinisantosnsc/Projeto-RPC/blob/main/imagens/teste-rpc.png)
 
 ## 🛠️ Construído com
 
